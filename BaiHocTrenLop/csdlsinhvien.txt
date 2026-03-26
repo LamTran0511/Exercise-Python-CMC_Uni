@@ -1,0 +1,4 @@
+sv01;Trần Minh Tuấn;8.7
+sv02;Lê Thị Hồng;9.2
+sv03;Phạm Văn An;7.8
+sv04;Ngô Thị Mai;8.0
